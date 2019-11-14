@@ -1,3 +1,10 @@
+# Verkefni 9 í Vefforritun 1
+Kári Steinn aðalsteinsson
+
+Netfang: ksa13@hi.is
+
+---
+
 # Verkefni 9
 
 Útfæra skal leit og birtingu á fyrirtækjum gegnum `apis.is`. `https://apis.is/company?name=elko` leitar t.d. að upplýsingum um `elko` og skilar til baka lista af hlutum, t.d.:
